@@ -1,0 +1,17 @@
+{
+  "name": "test-local-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ag-grid-devtools/cli": "^31.3.0",
+    "ag-grid-community": "^31.3.2",
+    "ag-grid-devtools": "file:/./ag-grid-devtools-31.3.0.tar.gz"
+  }
+}
